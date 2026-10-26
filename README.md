@@ -1,5 +1,7 @@
 # Dấu
 
+> **About this fork:** Dấu is an open-source project created by **[Robert Huynh](https://github.com/roberthuynh)**, and it took second place at [OpenAI Build Week 2026](https://developers.openai.com/blog/build-week-winners). All credit for the project goes to him. HBS AI Commons shares this fork of the original repository, [roberthuynh/dau-tones](https://github.com/roberthuynh/dau-tones), under its [MIT License](LICENSE). Watch the [demo video](https://youtu.be/MvwkqRmEpBg) or try the [live app](https://dau.huynhrobert.com). For the latest version, issues and contributions, please use the original repo.
+
 > See your tones. Hear what you actually said.
 
 Dấu is an open-source practice lab that makes Vietnamese tones visible by drawing a learner's pitch over a DSP-validated reference target. It opens with the six meanings of `ma`, carries those tone shapes into connected dialogues, and uses deterministic signal processing to grade while a coach explains the physical correction and the meaning a wrong mark can create.
